@@ -1,4 +1,4 @@
-# ML_2025_6_Panchtron
+# CV_2026_13_Isometric
 
 ## Group member details:
 
