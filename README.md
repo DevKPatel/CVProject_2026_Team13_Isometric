@@ -35,4 +35,4 @@ wheat heads in clusters.
 
 ### **Dataset**
 
-* https://www.aicrowd.com/challenges/global-wheat-challenge-2021
+* https://zenodo.org/records/5092309
